@@ -11,4 +11,4 @@ See https://github.com/MarianArlt/sddm-sugar-light/blob/master/README.md (Origin
 
 Font Size customized to 12. Color and accent taken from official Breeze KDE palette from HIG https://community.kde.org/KDE_Visual_Design_Group/HIG/Color.
 
-Welcome message is in my own langage. It can be overwritten in /usr/share/sddm/themes/breeze-light-sugar/theme.conf via the variable HeaderText
+Welcome message is in my own langage. It can be overwritten in /usr/share/sddm/themes/breeze-light-sugar/theme.conf via the variable HeaderText. Note that I have customised screen resolution to 1366x768 in theme.conf. Please configure it to your needs for best results.
