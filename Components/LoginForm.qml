@@ -41,6 +41,7 @@ ColumnLayout {
         id: systemButtons
         Layout.alignment: Qt.AlignHCenter | Qt.AlignBottom
         Layout.preferredHeight: root.height / 4
+        exposedLogin: input.exposeLogin
     }
 
 }
